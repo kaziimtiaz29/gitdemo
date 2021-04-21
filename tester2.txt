@@ -1,2 +1,5 @@
 hisdfdsf
 sdfsdf
+add = git will keep track of changes of ur code
+commit - git will coalesce these changes into a saveplot
+push - git will publish these files online for u
